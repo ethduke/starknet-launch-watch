@@ -1,0 +1,12 @@
+/target/
+/data/
+.env
+.env.*
+!.env.example
+*.sqlite*
+*.db*
+*.log
+*.pem
+*.key
+.DS_Store
+
