@@ -102,4 +102,3 @@ Tests cover real historical event layouts, full-width quantities, metadata decod
 - Add wallet-based trading with explicit quote, slippage, expiry and user confirmation.
 
 MIT applies to our code. Third-party protocols retain their own licensing and terms.
-

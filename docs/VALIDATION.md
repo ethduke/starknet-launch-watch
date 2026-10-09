@@ -11,4 +11,3 @@
 - Local `.env` is ignored and has mode 0600. Runtime SQLite data is ignored.
 
 Telegram delivery and the selected user's authenticated RPC/WebSocket provider have not been validated yet. No onchain transaction was signed or sent. Liquidity is raw active L; USD depth, trade quotes, liquidity locks, factory/pool alert grouping and additional launchpad coverage remain subsequent work.
-

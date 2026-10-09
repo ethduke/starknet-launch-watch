@@ -7,4 +7,3 @@ This service observes chain data and sends alerts. It has no blockchain transact
 Rotate exposed Telegram and RPC credentials at the provider immediately. Deleting an exposed Git commit is insufficient. Keep credentials outside version control and runtime error reports. Always review staged files before publishing.
 
 Audit and test any future wallet integration separately. Preserve wallet-held keys, network checks, slippage/deadline bounds, user authorization and clear transaction previews.
-

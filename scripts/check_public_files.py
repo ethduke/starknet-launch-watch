@@ -39,4 +39,3 @@ if problems:
         print(f"BLOCKED: {name}: {label}; matched content suppressed", file=sys.stderr)
     sys.exit(1)
 print(f"Public-file screening passed for {sum(bool(n) for n in names)} tracked files.")
-

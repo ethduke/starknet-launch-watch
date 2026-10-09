@@ -9,4 +9,3 @@
 - Pin reviewed deployment classes and record live/historical ABI provenance. Review source upgrades before changing adapters or pins.
 - Do not copy restrictive-license protocol implementations into this repository.
 - Before pushing, run formatting, tests, Clippy and `scripts/check_public_files.py`; inspect the staged file list. Do not print file contents from secret files.
-

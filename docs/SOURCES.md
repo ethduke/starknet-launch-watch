@@ -33,4 +33,3 @@ These fixtures verify historical decoding. They do not prove present-day activit
 - [Starknet WebSocket RPC specification](https://github.com/starkware-libs/starknet-specs/blob/master/api/starknet_ws_api.json).
 - [Starknet read RPC specification](https://github.com/starkware-libs/starknet-specs/blob/master/api/starknet_api_openrpc.json).
 - [AVNU application](https://app.avnu.fi/): the bot links to this fixed HTTPS destination; no route availability or token-specific deep-link behavior is assumed.
-
